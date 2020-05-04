@@ -25,3 +25,5 @@ brew install weechat
 brew install mc
 brew install htop
 brew install wireshark
+brew install xvi
+brew install vbindiff
