@@ -27,3 +27,5 @@ brew install htop
 brew install wireshark
 brew install xvi
 brew install vbindiff
+
+echo 'alias mc="mc --nosubshell"' >> ~/.zshrc
